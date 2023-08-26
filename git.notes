@@ -1,0 +1,9 @@
+Create a repo on github.
+git clone https://github.com/connortechsolutions/learn_react.git
+Make changes, add files, etc.
+Then add those changes.
+git add .
+git commit -m "New commit message".
+Push those changes to GitHub.
+git push origin main
+
